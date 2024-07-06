@@ -28,6 +28,7 @@ einops
 matplotlib==3.7.2
 tensorboard
 customtkinter
+tkinter
 
 # Miscellaneous
 ffmpy==0.3.1
